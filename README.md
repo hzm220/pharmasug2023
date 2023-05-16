@@ -9,3 +9,5 @@ HT-042 : Commit early, commit often! A gentle introduction to the joy of Git and
 Isaiah Lankham, Kaiser Permanente Center for Health Research
 Matthew Slaughter, Kaiser Permanente Center for Health Research
 Tuesday, 8:00 AM - 9:30 AM, Location: LVL Lobby: Golden Gate 3-4
+
+link: https://github.com/saspy-bffs/pharmasug-2023-how
